@@ -17,7 +17,7 @@ Just creating space around and doing cool things.
 2. Новый DarkRP [(клик сюда)](https://github.com/Titanovsky/AE-DarkRP)
 3. Homeway [(клик сюда)](https://github.com/Titanovsky/gmodexit-homeway)
 4. Capture of Terra - Basewars [(клик сюда)](https://github.com/Titanovsky/gmodexit-basewars-cot)
-5. Выживашка
+5. Выживашка ()
 6. МистикРП
 7. Сборка модулей для Ambi Eco 
 
