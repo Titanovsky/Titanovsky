@@ -12,8 +12,8 @@ Just creating space around and doing cool things.
 4. Capture of Terra - Basewars [(клик сюда)](https://github.com/Titanovsky/gmodexit-basewars-cot)
 5. Выживашка [(клик сюда)](https://github.com/Titanovsky/gmodexit-survival) 
 6. МистикРП [(клик сюда)](https://github.com/Titanovsky/gmodexit-mystic-rp)
-7. PhonexRP [(клик сюда)]()
-8. Сборка модулей для Ambi Eco 
+7. PhonexRP [(клик сюда)](https://github.com/Titanovsky/gmodexit-phonex-rp)
+8. Сборка модулей для Ambi Eco [(клик сюда)](https://github.com/Titanovsky/gmodexit-ambi-eco-modules)
 
 </br>
 
