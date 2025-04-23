@@ -14,6 +14,7 @@ Just creating space around and doing cool things.
 6. МистикРП [(клик сюда)](https://github.com/Titanovsky/gmodexit-mystic-rp)
 7. PhonexRP [(клик сюда)](https://github.com/Titanovsky/gmodexit-phonex-rp)
 8. Сборка модулей для Ambi Eco [(клик сюда)](https://github.com/Titanovsky/gmodexit-ambi-eco-modules)
+9. RUS [(клик сюда)](https://github.com/Titanovsky/gmodexit-rus)
 
 </br>
 
